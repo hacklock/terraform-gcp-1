@@ -1,4 +1,5 @@
 # Desafio Pipeline CICD Cloud Build + Terraform.
+# Wilton Ribeiro Cruz Diome
 
 1. Utilize o git https://github.com/digitalinnovationone/terraform-gcp/tree/main/terraform-exemplo2 para configurar a trigger do Cloud Build.
 
@@ -7,3 +8,6 @@
 3. Salve os arquivos do Estado no Google Cloud Storage.
 
 Submeta o print de cada etapa de configuração do Pipeline .
+
+
+
