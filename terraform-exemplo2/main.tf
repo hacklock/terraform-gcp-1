@@ -6,14 +6,14 @@ terraform {
   }
 
    backend "gcs" {
-    bucket  = "barberoterraform"
+    bucket  = "piumhi10terraform"
     prefix  = "terraform/state"
   }
   
 }
 
 provider "google" {
-  project = "barbero-devops-iac"
+  project = "subtle-analyzer-367617"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
